@@ -7,4 +7,4 @@ FOR MORE INFORMATION
   => If you are reading this it means you're in the MAIN Branch , for more information switch to PatientRegistrationSystem Branch. 
   => Visit our website : https://sites.google.com/myuwc.ac.za/patient-registration-system/home
 
-In the formation of this project the following were all used: Google site , IntelliJ , Powerpoint , Google.
+In the formation of this project the following were all used: Google site , IntelliJ , Powerpoint , Google & Github.
