@@ -6,7 +6,7 @@ A Computer-based application that plays a vital role in modern healthcare facili
 
 <ins>**THIS PROJECT'S MISSION**</ins>
 
-The mission of a patient registration system is to track and manage patient data, which can include demographics, medical history, contact information, and financial information. It aims to ensure that accurate and up-to-date information is readily available for patients. The system is used by healthcare organizations to determine the level of care the patient will receive, as well as to bill the patient or their insurance company.
+The mission of this project is develop a secure, efficient, and user-friendly patient registration system that tracks and manage patient data, which can include demographics, medical history, contact information, and financial information. It aims to ensure that accurate and up-to-date information is readily available for patients. The system is used by healthcare organizations to determine the level of care the patient will receive, as well as to bill the patient or their insurance company.
 
 <ins>**Importance of a Patient Registration System:**</ins>
 
